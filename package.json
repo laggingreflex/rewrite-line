@@ -1,0 +1,7 @@
+{
+  "name": "rewrite-line",
+  "version": "0.0.0",
+  "description": "Re-Write to same line on console",
+  "main": "index.js",
+  "repository": "laggingreflex/rewrite-line"
+}
